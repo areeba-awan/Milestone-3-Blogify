@@ -17,9 +17,9 @@ const About = () => {
             {/* paragraph portion*/}
           <p className="text-sm sm:text-base md:text-xl text-gray-900 text-left mb-4 sm:mb-6 leading-tight font-light">
       
-         Welcome to Blogify celebration of Pakistan's stunning natural beauty! Here, I share my love for the country's diverse landscapes, from towering mountain ranges to vast deserts, lush valleys, and serene coastlines.This blog is your gateway to discovering Pakistan's rich ecological heritage, unique wildlife, and hidden gems. </p>
+         Welcome to Blogify celebration of Pakistans stunning natural beauty! Here, I share my love for the countrys diverse landscapes, from towering mountain ranges to vast deserts, lush valleys, and serene coastlines.This blog is your gateway to discovering Pakistans rich ecological heritage, unique wildlife, and hidden gems. </p>
           <p className="text-sm sm:text-base md:text-xl text-gray-900 mb-4 text-left sm:mb-6 leading-tight md:leading-relaxed font-light">
-          Join me on this journey as we explore the wonders of Pakistan, one breathtaking view at a time. Let's embark on an adventure that promises to leave you awestruck and longing for more.
+          Join me on this journey as we explore the wonders of Pakistan, one breathtaking view at a time. Let us embark on an adventure that promises to leave you awestruck and longing for more.
 
 
           </p>
